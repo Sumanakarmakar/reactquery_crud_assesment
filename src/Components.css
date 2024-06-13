@@ -1,0 +1,21 @@
+
+.loader_custom{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.link_custom{
+    text-decoration: none;
+}
+
+/* footer section */
+.footer{
+    position: relative;
+    background-color: rgb(43, 75, 116);
+    text-align: center;
+    padding: 30px 0px;
+    margin-top: auto
+}
